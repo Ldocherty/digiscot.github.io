@@ -47,6 +47,12 @@ All going well
 
 Train peer volunteers
 The next group of classes start on 6th August.
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/annexepartick/posts/881500685268032" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/annexepartick/posts/881500685268032"><p>Digital Inclusion Classes are proving a real hit with people in Partick.  We&#039;ve discovered that smaller numbers for...</p>Posted by <a href="https://www.facebook.com/annexepartick">Annexe Communities</a> on&nbsp;<a href="https://www.facebook.com/annexepartick/posts/881500685268032">Monday, August 17, 2015</a></blockquote></div></div>
+
+Reducing numbers has drastically improved people's experience within the classes.  More one-to-one tuition has seen a great improvement in people's understanding of the concept.  People have reported that concentrated time with a tutor has made a great difference in their learning experience.
+
+Although people quite readily help each other in the classes, the training of peer volunteers seems to be taking a little longer than we had originally anticipated.  Tying people down to taking on the role of volunteer within the IT setting seems a bit daunting for people.
+
 
 ### Phase 4 - September & October
 
